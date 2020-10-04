@@ -1,36 +1,9 @@
-## Welcome to GitHub Pages
+# Hush
 
-You can use the [editor on GitHub](https://github.com/JFritzen815/mycis280finalapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hush is an app that will put your device on silent mode either for a given amount of time, or when the device detects that it's in a certain location (such as a workplace). After the time is up, or the device leaves the location, the app will return the devices sound back to where it started. There will also be a setting to allow certain alerts to bypass the app if you are recieving an important notification. Hush adds another layer of customization to your phone, allowing it to automatically adapt to your personal routune. Don't miss another important call or message while keeping your phone on silent.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JFritzen815/mycis280finalapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
